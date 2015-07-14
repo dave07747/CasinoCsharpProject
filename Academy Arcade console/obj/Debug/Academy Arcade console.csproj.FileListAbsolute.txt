@@ -1,0 +1,6 @@
+X:\Random C# Programs\Academy Arcade console\Academy Arcade console\bin\Debug\Academy Arcade console.exe.config
+X:\Random C# Programs\Academy Arcade console\Academy Arcade console\bin\Debug\Academy Arcade console.exe
+X:\Random C# Programs\Academy Arcade console\Academy Arcade console\bin\Debug\Academy Arcade console.pdb
+X:\Random C# Programs\Academy Arcade console\Academy Arcade console\obj\Debug\Academy Arcade console.csprojResolveAssemblyReference.cache
+X:\Random C# Programs\Academy Arcade console\Academy Arcade console\obj\Debug\Academy Arcade console.exe
+X:\Random C# Programs\Academy Arcade console\Academy Arcade console\obj\Debug\Academy Arcade console.pdb
